@@ -1,5 +1,7 @@
 # MiniGames-with-OpenGL-2.0
-Using OpneGL 2.0 to build a Paint Tool with Difference games and Puzzle Shuffle
+Old College Project where we had to use OpneGL 2.0 to build a Creative Project.
+
+We created a Paint Tool that saved paintings that could be used with Difference game and Puzzle Shuffle
 
 ## Some Pictures of Project:
 
