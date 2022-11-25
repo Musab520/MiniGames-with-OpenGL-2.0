@@ -5,3 +5,6 @@ Using OpneGL 2.0 to build a Paint Tool with Difference games and Puzzle Shuffle
 
 ### Main Menu:
 ![image](https://user-images.githubusercontent.com/62875631/204035168-3eb626ad-1521-463a-bc78-d161bb902bf4.png)
+
+### Paintings View
+![image](https://user-images.githubusercontent.com/62875631/204035285-eab5dba7-5563-4332-ad10-92a733659efe.png)
